@@ -1,0 +1,7 @@
+<Alloy>
+<Window class="container" layout="vertical" scrollable="true">
+	<TableView dataCollection="Products" height="auto" headerTitle="Products List" backgroundColor="#123">
+		<TableViewRow title="{ProductName}" borderWidth="0"/>
+	</TableView>
+</Window>
+</Alloy>
